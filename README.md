@@ -6,6 +6,17 @@ It is meant as a guide to help go along with the video by [Dreams of Code](https
 
 This repo is organized by the different approaches you can take to setting up home row mods.
 
+## General information
+
+Whilst Home Row Mods are a simple concept, there's a lot of variables and configuration that you can
+apply to them.
+
+For an in depth guide on home row mods, I recommend reading the following resource. 
+
+[https://precondition.github.io/home-row-mods](https://precondition.github.io/home-row-mods)
+
+In my case, I only have a simple configuration, which works well for my purposes, but might not for you.
+
 ## QMK
 
 For an example on how to set up Home Row Mods with QMK, I recommend checking out the [QMK](./qmk) directory
