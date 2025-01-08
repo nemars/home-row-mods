@@ -1,5 +1,12 @@
 # Linux
 
+## Changes from Video
+
+Some linux users will encounter issues by just using the `tap-hold` behavior by itself.
+
+This has been resolved with #7 which is the [recommended workaround from the kanata documentation](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#tap-hold).
+
+
 ## Systemd daemon process
 
 Add this to: `~/.config/systemd/user/kanata.service`:

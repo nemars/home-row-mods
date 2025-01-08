@@ -6,6 +6,12 @@ It is meant as a guide to help go along with the video by [Dreams of Code](https
 
 This repo is organized by the different approaches you can take to setting up home row mods.
 
+## Changes from Video
+
+Some linux users will encounter issues by just using the `tap-hold` behavior by itself.
+
+This has been resolved with #7 which is the [recommended workaround from the kanata documentation](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#tap-hold).
+
 ## General information
 
 Whilst Home Row Mods are a simple concept, there's a lot of variables and configuration that you can
